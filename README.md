@@ -1,2 +1,2 @@
 # CDN_for_webs
-暂时存放blog需要引用的资源
+![](<https://img.shields.io/badge/release-1.0.0-brightgreen.svg>) 存放blog需要引用的资源  [loch's blog](https://isloch.top) 
